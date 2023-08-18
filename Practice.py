@@ -1,8 +1,8 @@
-number = int(input("Enter a positive number: "))
+number = int(input("lot adad mosbat vared koned: "))
 
 
 if number <= 0:
-    print("Please enter a positive number.")
+    print("lotfan adad mosbat vared koned .")
 else:
     while number > 0:
         digit = number % 10
